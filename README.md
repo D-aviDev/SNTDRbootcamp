@@ -1,2 +1,2 @@
 # SNTDRbootcamp
-Back-end project for Santander QuotesScreen - DEV WEEK
+ackend project Santander QuotesScreen - ON a Cloud
